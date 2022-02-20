@@ -1,5 +1,10 @@
 ### Hi there 👋
+                                                                                                                                                 
+A builder, developer, creator, thinker and inveterate learner, I have strategic and team leadership experience across a diverse range of organizational types and industries. Digital transformation practitioner, with a strong analytical and technical skill-set. My passion is helping organizations develop secure applications with scalable infrastructure that provide exceptional customer value. Continuous learning and paying it back and forward get me out of bed in the morning.
 
+I'm the Director of IT/Business System for Vode Lighting, with previous experience as a consulting CTO, web developer, and project manager. I have an MBA from Willamette University, Sec+ and working on CISSP and cloud certifications.
+
+🌱 I’m currently working on AWS and CISSP certs, and building out practical applications of Zero-Trust, as well as secure code development and deployment.
 <!--
 **jefferywmoore/jefferywmoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,10 +22,10 @@ Here are some ideas to get you started:
 
 <hr>
 
-### Social
+### Let's Connect!
 <p align="center">
-<a href="https://twitter.com/jefferywmoore"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-<a href="https://medium.com/@jefferywmoore"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
+<a href="https://twitter.com/jefferywmoore"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+<a href="https://jefferymoore.io/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height=25></a> 
 <a href=https://www.linkedin.com/in/jefferywmoore"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:jeff@jefferywmoore.com"><img src="https://img.shields.io/badge/gmail-%EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 </p>
@@ -28,20 +33,8 @@ Here are some ideas to get you started:
 <br>
                                                                                                                                              
 <br>
-### About Me
-Passionate and motivated, I design/architect and develop integrated solutions that drive business value and create sustainable competitive advantage. I am a hands-on dynamic and resourceful Information Technology Executive with more than 20 years of corporate leadership experience.
 
-With an exceptional background in building development teams, managing high-value IT assets, advising CEOs and implementing powerfully integrated sales, commerce and customer relationship systems, I harness project & IT management, data center design/construction, integrated security, and development and process improvement skill sets to leverage value-added customer engagement.
 
-<br>
                                                                                                                          
-<hr>
 
-### Stats
-<br>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferywmoore&theme=cobalt" alt="" width="400">
-<br>
-<br>
-</p>
 
