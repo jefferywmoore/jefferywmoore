@@ -20,6 +20,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- Pinned Repositories -- >
+
+<a href="https://github.com/jefferywmoore/CISSP-Study-Resources">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jefferywmoore&repo=CISSP-Study-Resources&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://https://github.com/jefferywmoore/Zero-Trust-Resources">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jefferywmoore&repo=Zero-Trust-Resources&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://https://github.com/jefferywmoore/DevSecOps">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jefferywmoore&repo=DevSecOps&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 <hr>
 
 ### Let's Connect!
