@@ -5,40 +5,28 @@ A builder, developer, creator, thinker and inveterate learner, I have strategic 
 I'm the Director of IT/Business System for Vode Lighting, with previous experience as a consulting CTO, web developer, and project manager. I have an MBA from Willamette University, Sec+ and working on CISSP and cloud certifications.
 
 🌱 I’m currently working on AWS and CISSP certs, and building out practical applications of Zero-Trust, as well as secure code development and deployment.
-<!--
-**jefferywmoore/jefferywmoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 
 <a href="https://github.com/jefferywmoore/CISSP-Study-Resources">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jefferywmoore&repo=CISSP-Study-Resources&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jefferywmoore&repo=CISSP-Study-Resources&show_icons=true&theme=dark" />
 </a>
 
 <br>
 
 <a href="https://https://github.com/jefferywmoore/Zero-Trust-Resources">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jefferywmoore&repo=Zero-Trust-Resources&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jefferywmoore&repo=Zero-Trust-Resources&show_icons=true&theme=dark" />
 </a>
+
+<br>
 
 <a href="https://https://github.com/jefferywmoore/DevSecOps">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jefferywmoore&repo=DevSecOps&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jefferywmoore&repo=DevSecOps&show_icons=true&theme=dark" />
 </a>
-
+<!--
 <a href="https://gitlab.com/jefferywmoore/playbooks">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=jefferywmoore&repo=playbooks&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jefferywmoore&show_icons=true&theme=dark" />
 </a>
+-->
 <hr>
 
 ### Let's Connect!
