@@ -13,13 +13,13 @@ I'm the Director of IT/Business System for Vode Lighting, with previous experien
 
 <br>
 
-<a href="https://https://github.com/jefferywmoore/Zero-Trust-Resources">
+<a href="https://github.com/jefferywmoore/Zero-Trust-Resources">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jefferywmoore&repo=Zero-Trust-Resources&show_icons=true&theme=dark" />
 </a>
 
 <br>
 
-<a href="https://https://github.com/jefferywmoore/DevSecOps">
+<a href="https://github.com/jefferywmoore/DevSecOps">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jefferywmoore&repo=DevSecOps&show_icons=true&theme=dark" />
 </a>
 <!--
