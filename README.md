@@ -2,9 +2,7 @@
                                                                                                                                                  
 A builder, developer, creator, thinker and inveterate learner, I have strategic and team leadership experience across a diverse range of organizational types and industries. Digital transformation practitioner with a strong analytical and technical skill set. My passion is balancing progress with protection, security, and digital transformation by developing and harnessing secure, transformative technologies that create business value and competitive advantage. Continuous learning and paying it back and forward get me out of bed in the morning.
 
-I'm the Director of IT/Business System for Vode Lighting, with previous experience as a consulting CTO, web developer, and project manager. I have an MBA from Willamette University, training from UC Berkeley on data science, and Sec+ certification.
-
-🌱 Currently working on AWS and CISSP certs, and building out practical applications of Zero-Trust, as well as secure code development and deployment.
+🌱 With an MBA from Willamette University, training from UC Berkeley, Sec+ and CISSP certs, I'm the founder at Balanced Security where I leverage technology to help customers maximize business value while aligning security, privacy, and compliance.
 
 
 <a href="https://github.com/jefferywmoore/CISSP-Study-Resources">
