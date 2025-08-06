@@ -29,10 +29,10 @@ A builder, developer, creator, thinker and inveterate learner, I have strategic 
 
 ### Let's Connect!
 <p align="center">
-<a href="https://twitter.com/jefferywmoore"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-<a href="https://jefferymoore.io/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height=25></a> 
+<!--<a href="https://twitter.com/jefferywmoore"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> -->
+<!--<a href="https://jefferymoore.io/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height=25></a> -->
 <a href=https://www.linkedin.com/in/jefferywmoore"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="mailto:jeff@jefferywmoore.com"><img src="https://img.shields.io/badge/gmail-%EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="mailto:jeff@balancedsec.com"><img src="https://img.shields.io/badge/gmail-%EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 </p>
 <hr>
 <br>
