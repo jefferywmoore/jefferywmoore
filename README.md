@@ -26,6 +26,7 @@ A builder, developer, creator, thinker and inveterate learner, I have strategic 
 </a>
 -->
 <hr>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefferywmoore&show_icons=true&theme=transparent)
 
 ### Let's Connect!
 <p align="center">
