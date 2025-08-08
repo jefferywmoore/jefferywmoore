@@ -25,9 +25,9 @@ A builder, developer, creator, thinker and inveterate learner, I have strategic 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jefferywmoore&show_icons=true&theme=dark" />
 </a>
 -->
-<hr>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefferywmoore&show_icons=true&theme=transparent)
 
+![Jeff Moore's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefferywmoore&show_icons=true&theme=transparent&rank_icon=github&hide=contribs,prs)
+<hr>
 ### Let's Connect!
 <p align="center">
 <!--<a href="https://twitter.com/jefferywmoore"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> -->
