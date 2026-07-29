@@ -70,10 +70,6 @@ These are work-in-progress projects.
 | Repository | What you learn | Live Stars |
 |------------|---------------|-----------|
 | **[CISSP Study Resources](https://github.com/jefferywmoore/CISSP-Study-Resources)** | A collection of notes and reference materials with study guides for each domain, organized by exam objectives. You'll learn how to address the exam material from a security manager or owner's point of view, and prepare to take and successfully pass the CISSP exam.| <img src="https://img.shields.io/github/stars/jefferywmoore/CISSP-Study-Resources?label=Stars&style=for-the-badge" alt="Stars on CISSP Study Resources" width="160"> |
-| **[AppSec Resources](https://github.com/jefferywmoore/genai_agents)** | New. My goal is to create guides and reference information for developing more secure apps. | <img src="https://img.shields.io/github/stars/jefferywmoore/appsec-resources?label=Stars&style=for-the-badge" alt="Stars on GenAI Agents repo" width="160"> |
-| **[DevSecOps](https://github.com/jefferywmoore/devsecops)** | Articles, tools and and reference information for understanding DevSecOps (development, security, and operations)| <img src="https://img.shields.io/github/stars/jefferywmoore/devsecops?label=Stars&style=for-the-badge" alt="Stars on GenAI Agents repo" width="160"> |
-| **[ZeroTrust](https://github.com/jefferywmoore/Zero-Trust-Resources)** | Articles, tools and and reference information for understanding ZeroTrust | <img src="https://img.shields.io/github/stars/jefferywmoore/zero-trust-resources?label=Stars&style=for-the-badge" alt="Stars on GenAI Agents repo" width="160"> |
-| **[Language Learning Resources (Spanish)](https://github.com/jefferywmoore/Spanish-Learning-Resources)** | Articles, tools and and resources for learning Español as a native English speaker | <img src="https://img.shields.io/github/stars/jefferywmoore/zero-trust-resources?label=Stars&style=for-the-badge" alt="Stars on GenAI Agents repo" width="160"> |
 
 ---
 
